@@ -1,0 +1,8 @@
+.photo-list {
+    display: grid;
+    margin-top: 12px;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: center;
+    justify-items: center;
+    column-gap: 12px;
+}

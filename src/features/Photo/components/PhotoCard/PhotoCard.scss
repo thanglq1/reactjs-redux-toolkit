@@ -1,0 +1,18 @@
+.photo-card {
+    width: 100%;
+    position: relative;
+}
+.photo-card-img {
+    width: 100%;
+}
+.btn {
+    min-width: 96px;
+    max-height: 42px;
+    margin: 8px;
+}
+.photo-btn-edit-delete {
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+}

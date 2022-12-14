@@ -1,0 +1,19 @@
+.nav-header {
+    display: flex;
+    padding: 16px 32px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-header-item {
+    list-style: none;
+    text-decoration: none;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 700;
+}
+.nav-header-item:hover,
+.nav-header-item:active {
+    color: teal;
+}
